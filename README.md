@@ -41,7 +41,7 @@ _italic_
 **bold**
 __bold__
 
-Ala ma konta [^1]:usefull
+Ala ma konta ^[it is ver usefull]
 
 _What is **wrong** with you? _
 
