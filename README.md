@@ -41,9 +41,7 @@ _italic_
 **bold**
 __bold__
 
---crossed--
-
-==highlight==
+Ala ma konta [^1]:usefull
 
 _What is **wrong** with you? _
 
