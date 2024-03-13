@@ -41,6 +41,10 @@ _italic_
 **bold**
 __bold__
 
+--crossed--
+
+==highlight==
+
 _What is **wrong** with you? _
 
 ### Lists
@@ -64,11 +68,19 @@ _What is **wrong** with you? _
 1. third
 ---
 
+### TABLES
+
+FIRST HEADER | SECOND HEADER | THIRD HEADER
+:-|:-:|-:
+1 ROW | 1 ROW 2 COL | 3 COL
+2 ROW | 2 ROW 2 COL | 3 COL
+
 ### Tasks
 
+- [x] Sigma
 - [ ] Alfa
-- [ ] Beta
-- [x] Gamma
+    - [ ] Beta
+    - [x] Gamma
 
 
 ### Blockquotes
